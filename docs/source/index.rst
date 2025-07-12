@@ -11,23 +11,35 @@ PowerAI: Power System Fault Detection
 
 PowerAI is an advanced AI solution for detecting and classifying faults in electrical power systems using machine learning and deep learning techniques.
 
-Project Information
-===================
+Our Team
+--------
 
-**Institution:** ENSAM-Meknes
-
-**Field of Study:** GIATD
-
-**Project Period:** [01/2025] - [06/2025]
-
-**Supervisor:** Pr. Tawfik Masrour
+This innovative project was carried out by a team of students passionate about artificial intelligence and its practical applications in the retail sector, under the supervision of a recognized expert in the field.
 
 Team Members
-============
+~~~~~~~~~~~~
 
-**Team Member 1:** Amine FARIS
+- **Es-safi Abderrahman** – AI and Data Technologies Engineering student   
+ `LinkedIn <https://www.linkedin.com/in/abderrahman-es-safi-773739329/>`__
 
-**Team Member 2:** Abderrahman ESSAFI
+- **Faris Amine** – AI and Data Technologies Engineering student    
+ `LinkedIn <https://www.linkedin.com/in/amine-faris-645096277/>`__
+
+Project Supervisor
+~~~~~~~~~~~~~~~~~~
+
+- **Prof. Tawfik Masrour** – Professor, AI expert  
+ Research Director in applied artificial intelligence and project mentor  
+ `LinkedIn <https://www.linkedin.com/in/tawfik-masrour-43163b85/>`__
+
+Institution: ENSAM-Meknes
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Program: IADT-SI
+~~~~~~~~~~~~~~~~
+
+Period: 06-2025 / 01-2025
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Project Overview
 ================
