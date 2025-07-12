@@ -8,8 +8,8 @@ sys.path.insert(0, os.path.abspath('..'))  # Assumes docs/ is one level deep
 # -- Project information -----------------------------------------------------
 
 project = 'Fault Detection and Classification in Power Systems'
-copyright = '2025, Amine Faris'
-author = 'Amine Faris'
+copyright = '2025, Abderrahman Es-safi'
+author = 'Abderrahman Es-safi'
 release = '0.1'  # Optional: Set your project version
 
 # -- General configuration ---------------------------------------------------
